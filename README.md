@@ -35,11 +35,11 @@ Inspired by awesome-microbiome project (https://github.com/stevetsa/awesome-micr
 
 ## Public Data Sets
 
-[HMP dataset](http://hmpdacc.org/HMQCP/): HMP data is microbiome data sets from around 250 healthy participants for 18 body sites. Nature 2012 paper reference(https://www.nature.com/nature/journal/v486/n7402/full/nature11234.html)
+[HMP dataset](http://hmpdacc.org/HMQCP/): HMP data is microbiome data sets from around 250 healthy participants for 18 body sites. [Nature 2012 paper reference](https://www.nature.com/nature/journal/v486/n7402/full/nature11234.html)
 
 [American Gut dataset](https://github.com/biocore/American-Gut/tree/master/data): American Gut project is microbiome data sets from more than 5000 individuals generated from Dr Rob Knight's group. (It is still updating)
 
-##Data Format
+## Data Format
 
 [BIOM Format](http://biom-format.org/) - is designed to be a general-use format for representing biological sample by observation contingency tables. BIOM is a recognized standard for the Earth Microbiome Project and is a Genomics Standards Consortium supported project.
 
