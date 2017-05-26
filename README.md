@@ -17,7 +17,7 @@ Inspired by awesome-microbiome project (https://github.com/stevetsa/awesome-micr
 
 [phyloseq](https://joey711.github.io/phyloseq/) - The R packages to process microbiome data sets.
 
-[UPARSE]( http://drive5.com/uparse/) - generates OTUs that are far superior to state-of-the-art methods including QIIME, mothur and AmpliconNoise on mock community tests. OTU representative sequences are more accurate predictions of biological sequences, and the number of OTUs is much close to the number of species.
+[UPARSE](http://drive5.com/uparse/) - generates OTUs that are far superior to state-of-the-art methods including QIIME, mothur and AmpliconNoise on mock community tests. OTU representative sequences are more accurate predictions of biological sequences, and the number of OTUs is much close to the number of species.
 
 [Qiita]( http://qiita.microbio.me/) - microbiome storage and analysis resource that can run on everything from your laptop to a supercomputer. It is built on top of the widely used QIIME package, and enables the exploration of -omics data.
 
@@ -35,10 +35,12 @@ Inspired by awesome-microbiome project (https://github.com/stevetsa/awesome-micr
 
 ## Public Data Sets
 
-[HMP data set] (http://hmpdacc.org/HMQCP/): HMP data is microbiome data sets from around 250 healthy participants for 18 body sites. Nature 2012 reference (https://www.nature.com/nature/journal/v486/n7402/full/nature11234.html)
-[American Gut data set] (https://github.com/biocore/American-Gut/tree/master/data): American Gut project is microbiome data sets from more than 5000 individuals generated from Dr Rob Knight's group. (It is still updating)
+[HMP dataset](http://hmpdacc.org/HMQCP/): HMP data is microbiome data sets from around 250 healthy participants for 18 body sites. Nature 2012 paper reference(https://www.nature.com/nature/journal/v486/n7402/full/nature11234.html)
+
+[American Gut dataset](https://github.com/biocore/American-Gut/tree/master/data): American Gut project is microbiome data sets from more than 5000 individuals generated from Dr Rob Knight's group. (It is still updating)
 
 ##Data Format
+
 [BIOM Format](http://biom-format.org/) - is designed to be a general-use format for representing biological sample by observation contingency tables. BIOM is a recognized standard for the Earth Microbiome Project and is a Genomics Standards Consortium supported project.
 
 
