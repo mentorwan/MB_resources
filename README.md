@@ -7,7 +7,7 @@ Inspired by awesome-microbiome project (https://github.com/stevetsa/awesome-micr
 
 ## Microbiome (16S)
 
-[Qiime](http://qiime.org/) - QIIME is designed to take users from raw sequencing data generated on the Illumina or other platforms through publication quality graphics and statistics. This includes demultiplexing and quality filtering, OTU picking, taxonomic assignment, and phylogenetic reconstruction, and diversity analyses and visualizations.
+[QIIME](http://qiime.org/) - QIIME is designed to take users from raw sequencing data generated on the Illumina or other platforms through publication quality graphics and statistics. This includes demultiplexing and quality filtering, OTU picking, taxonomic assignment, and phylogenetic reconstruction, and diversity analyses and visualizations.
 
 [QIIME2](https://qiime2.org/) - QIIME2 is a new GUI for QIIME pakckage. It includes multiple plugins (DADA2 and Deblur etc). 
 
@@ -19,9 +19,9 @@ Inspired by awesome-microbiome project (https://github.com/stevetsa/awesome-micr
 
 [UPARSE](http://drive5.com/uparse/) - generates OTUs that are far superior to state-of-the-art methods including QIIME, mothur and AmpliconNoise on mock community tests. OTU representative sequences are more accurate predictions of biological sequences, and the number of OTUs is much close to the number of species.
 
-[Qiita]( http://qiita.microbio.me/) - microbiome storage and analysis resource that can run on everything from your laptop to a supercomputer. It is built on top of the widely used QIIME package, and enables the exploration of -omics data.
+[QIITA]( http://qiita.microbio.me/) - microbiome storage and analysis resource that can run on everything from your laptop to a supercomputer. It is built on top of the widely used QIIME package, and enables the exploration of -omics data.
 
-[Nephele](https://nephele.niaid.nih.gov/#cloud)  - The web tools to analyze microbiome data on the cloud.
+[NEPHELE](https://nephele.niaid.nih.gov/#cloud)  - The web tools to analyze microbiome data on the cloud.
 
 [PICRUST](http://picrust.github.io/picrust/) - The tools for pathway analysis using 16S data sets. 
 
